@@ -5,5 +5,5 @@ if (n>a) and (n>b):
     print("The greatest of three numbers is n")
 elif (a>n) and (a>b):
     print("The greatest of three numbers is a")
-else (b>a) and (b>n):
-print("The largest of three numbers is b")
+else:
+    print("The greatest of three numbers is b")
